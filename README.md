@@ -13,13 +13,13 @@ Step 1: Set up the [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Te
 
 Step 2: Git clone the repository to your local machine
 
-Steo 3: Open the code in a Jupyter Notebook
+Steo 3: Open the project in a Jupyter Notebook
 
 To start Jupyter in your browser, use terminal to navigate to your project directory and then run the following command at the terminal prompt (be sure you've activated your Python 3 carnd-term1 environment):
 
 > jupyter notebook
 
-A browser window will appear showing the contents of the current directory. Click on the file called "Lane-Finding-Project.ipynb". Another browser window will appear displaying the notebook. Follow the instructions in the notebook to run the project.
+A browser window will appear showing the contents of the current directory. Click on the file called "P1.ipynb". Another browser window will appear displaying the notebook. Follow the instructions in the notebook to run the project.
 
 The deliverable includes two files:
 1. P1.ipynb - project code
