@@ -31,10 +31,10 @@ For extrapolation, I implemented the draw_lines() function by
 
 Here are two examples of the output:
 * With solid white lanes
-[![With Solid White Lanes](./test_images/output_solidWhiteCurve.jpg)]
+(./test_images/output_solidWhiteCurve.jpg)
 
 * With solid yellow lanes
-[![With Solid Yellow Lanes](./test_images/output_solidYellowCurve2.jpg)]
+[With Solid Yellow Lanes](./test_images/output_solidYellowCurve2.jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
