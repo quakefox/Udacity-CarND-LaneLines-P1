@@ -11,7 +11,9 @@ This project of finding lanes is the first homework of the Udacity Selfdriving C
 # The Project Setup
 Step 1: Set up the [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md).
 
-Step 2: Open the code in a Jupyter Notebook
+Step 2: Git clone the repository to your local machine
+
+Steo 3: Open the code in a Jupyter Notebook
 
 To start Jupyter in your browser, use terminal to navigate to your project directory and then run the following command at the terminal prompt (be sure you've activated your Python 3 carnd-term1 environment):
 
